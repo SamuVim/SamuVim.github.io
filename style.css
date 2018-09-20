@@ -3,3 +3,9 @@
 	color: black;
 	text-align: center;
 }
+
+p {
+	background-color: green;
+	color: black;
+	text-align: left;
+}
