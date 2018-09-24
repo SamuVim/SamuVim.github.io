@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>Look what we found! What are we gonna make?</title>
-<link href="style.css" rel="stylesheet" type="text/css">
-</head>
-<body>
-<img src="dumpster3.png">
-</body>
-</html>
